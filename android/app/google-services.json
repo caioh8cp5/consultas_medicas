@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362897476796",
+    "project_id": "fir-consultas-b36ee",
+    "storage_bucket": "fir-consultas-b36ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362897476796:android:a9b4b7e7f83e2332a354b9",
+        "android_client_info": {
+          "package_name": "com.consultas.consultas_medicas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB56kW6boqSZvknU7eV1VB2VppC-slHTLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362897476796:android:085e39a7dff83937a354b9",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB56kW6boqSZvknU7eV1VB2VppC-slHTLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
